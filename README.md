@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on ShopSM's e-commerce mobile and web applications<br>🌱 I'm learning React Native, TypeScript, Next.js, Prismic CMS and GraphQL<br>💬 Ask me about HTML5, CSS3, JavaScript, MongoDB, Express, React and Node (MERN)<br>
+🔭 I formerly developed ShopSM's e-commerce mobile and web applications<br>🌱 Now, I'm focusing on mastering and honing my Flutter and Magento skills to build ShopSM's Companion App <br>💬 If you have any work opportunity available for me, I look forward to getting in touch with you on LinkedIn or through email! <br>
 
 
 ## 🌐 Socials:
