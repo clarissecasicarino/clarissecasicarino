@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I formerly developed ShopSM's e-commerce mobile and web applications<br>🌱 Now, I'm focusing on mastering and honing my Flutter and Magento skills to build ShopSM's Companion App <br>💬 If you have any work opportunity available for me, I look forward to getting in touch with you on LinkedIn or through email! <br>
+🌱 An extremely versatile developer capable of handling front-end and back-end technologies, creating visually captivating user experiences, and developing seamless Application Programming Interfaces. Manages ShopSM's web and mobile applications, delivering high-quality features, resolving bugs, and effectively managing stakeholder expectations. Ultimately, a fast learner and a team-oriented professional with the ability to translate business requirements into concrete software solutions. <br>💬 If you have any work opportunity available for me, I look forward to getting in touch with you on LinkedIn or through email! <br>
 
 
 ## 🌐 Socials:
